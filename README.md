@@ -1,1 +1,1 @@
-![](magic.pdf)
+Click `magic.pdf` above!
